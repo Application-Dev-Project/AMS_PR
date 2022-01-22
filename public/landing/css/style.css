@@ -424,7 +424,7 @@ body {
     font-size: 14px;
     text-transform: uppercase;
     background-color: #fff;
-    color: #0f5ef7;
+    color: #FF0068;
     font-family: 'Montserrat-Bold';
     padding: 12px 70px;
     display: inline-block;
@@ -436,14 +436,14 @@ body {
 }
 
 .nav.nav-tabs {
-    border: 1px solid #0f5ef7;
+    border: 1px solid #FF0068;
     border-radius: 10px;
     width: fit-content;
     margin: 0 auto 50px;
 }
 
 .nav.nav-tabs li a {
-    color: #0f5ef7;
+    color: #FF0068;
     text-decoration: none;
     padding: 10px 15px;
     display: inline-block;
@@ -452,7 +452,7 @@ body {
 }
 
 .nav.nav-tabs li a.active {
-    background: #0f5ef7;
+    background: #FF0068;
     color: white;
 }
 
@@ -589,7 +589,7 @@ body {
 
 .subscribe-part {
     padding: 60px 0px;
-    background: #0f5ef7;
+    background: #FF0068;
     text-align: center;
     color: #fff;
     z-index: 999;
@@ -615,7 +615,7 @@ body {
     border-radius: 8px;
     display: inline-block;
     font-size: 14px;
-    color: #0f5ef7;
+    color: #FF0068;
     background-color: #fff;
     padding: .375rem 2.05rem;
     border-top-left-radius: 0;
@@ -658,7 +658,7 @@ body {
 }
 
 .subscribe-part form button:hover {
-    color: #0f5ef7;
+    color: #FF0068;
 }
 
 .social-links .inner-text {
@@ -823,7 +823,7 @@ body {
 }
 
 .plan-2 {
-    background-color: #0f5ef7;
+    background-color: #FF0068;
     padding: 50px 20px;
     border-radius: 20px;
     height: 100%;
@@ -926,7 +926,7 @@ p.price sub {
 .plan-2 a.button {
     background-color: white;
     border-color: white;
-    color: #0f5ef7;
+    color: #FF0068;
 }
 
 .server-plan {
@@ -937,7 +937,7 @@ p.price sub {
 }
 
 .server-plan a {
-    color: #0f5ef7;
+    color: #FF0068;
 }
 
 .img-testimonial {

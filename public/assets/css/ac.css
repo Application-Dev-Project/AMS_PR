@@ -122,11 +122,11 @@
 }
 
 .custom-sidenav.sidenav .nav-application a:hover {
-    background: #008aff !important;
+    background: #FF0068 !important;
 }
 
 .nav-application > .btn.active {
-    background-color: #008aff;
+    background-color: #FF0068;
     color: #fff;
     box-shadow: 0 0 18px 0 rgb(19 44 156 / .4);
 }
@@ -172,7 +172,7 @@
 
 .div-mega > ul.navbar-nav > li.nav-item > a:hover,
 .div-mega > ul.navbar-nav > li.nav-item > a.active {
-    background: #0f59ee;
+    background: #FF0068;
     color: #fff;
 }
 
@@ -215,11 +215,11 @@
 }
 
 .div-mega > ul.navbar-nav div ul.nav li.active a {
-    color: #0f59ee;
+    color: #FF0068;
 }
 
 .div-mega > ul.navbar-nav div ul.nav li a:hover {
-    color: #0f59ee;
+    color: #FF0068;
 }
 
 .div-mega > ul.navbar-nav > li.nav-item > a:hover {
@@ -235,7 +235,7 @@
 }
 
 .submenu-li > a.nav-link.active {
-    background: #0f59ee;
+    background: #FF0068;
     color: #fff;
 }
 
@@ -271,11 +271,11 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #0f59ee;
+    background-color: #FF0068;
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #051c4b;
+    background-color: #FF0068;
     border-radius: 8px;
     transition: 1s;
 }

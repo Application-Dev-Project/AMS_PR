@@ -30,7 +30,7 @@ class EventController extends Controller
                 //                $arr['allDay']    = !0;
                 //                $arr['className'] = 'bg-danger';
                 $arr['backgroundColor'] = $event['color'];
-                $arr['borderColor']     = "#fff";
+                $arr['borderColor']     = "#FF0068";
                 $arr['textColor']       = "white";
                 $arr['url']             = route('event.edit', $event['id']);
 
