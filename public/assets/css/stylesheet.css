@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a.btn-icon-only {
     border-radius: 10px;
-    background: #0f5ef7;
+    background: #FF0068;
     color: #fff;
     padding: 10px 15px;
     width: auto !important;
@@ -123,7 +123,7 @@ table tbody {
 }
 
 .daterangepicker td.active {
-    background: #0f5ef7;
+    background: #FF0068;
 }
 
 table tbody tr td {
@@ -143,9 +143,9 @@ table tbody tr td {
 }
 
 .Id a {
-    color: #0f5ef7;
+    color: #FF0068;
     font-weight: 600;
-    border: 1px solid #0f5ef7;
+    border: 1px solid #FF0068;
     border-radius: 5px;
     padding: 4px 15px;
     font-size: 14px;
@@ -153,7 +153,7 @@ table tbody tr td {
 }
 
 .Id a:hover {
-    background: #0f5ef7;
+    background: #FF0068;
     color: #fff;
 }
 
@@ -175,7 +175,7 @@ table tbody tr td {
 
 .edit-icon {
     margin-right: 6px;
-    background: #0f5ef7;
+    background: #FF0068;
 }
 
 .table-responsive {
@@ -207,11 +207,11 @@ table tbody tr td {
 }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button.current {
-    background: #0f5ef7 !important;
+    background: #FF0068 !important;
     font-size: 10px !important;
     font-weight: 600;
     border-radius: 6px !important;
-    border-color: #0f5ef7 !important;
+    border-color: #FF0068 !important;
     color: #fff !important;
     padding: 5px 10px !important;
 }
@@ -232,7 +232,7 @@ table {
 
 
 .dataTables_wrapper .dataTables_filter {
-    border: 1px solid #0f5ef7;
+    border: 1px solid #FF0068;
     border-radius: 8px;
     height: 40px;
     padding: 0 15px;
@@ -242,10 +242,10 @@ table {
 
 .dataTables_wrapper .dataTables_length {
     margin: 30px 0 30px 30px;
-    border: 1px solid #0f5ef7;
+    border: 1px solid #FF0068;
     border-radius: 8px;
     height: 40px;
-    background: #0f5ef7;
+    background: #FF0068;
     color: #fff;
     font-size: 12px;
     font-weight: 600;
@@ -263,14 +263,14 @@ table {
     background: none;
     font-weight: 500;
     line-height: 28px;
-    color: #0f5ef7;
+    color: #FF0068;
     font-size: 12px;
 }
 
 .dataTables_wrapper .dataTables_filter label {
     font-weight: 600;
     font-size: 12px;
-    color: #0f5ef7;
+    color: #FF0068;
     float: left;
 }
 
@@ -287,7 +287,7 @@ table {
 .dataTables_wrapper .dataTables_length select {
     border: none;
     font-size: 12px;
-    color: #0f5ef7;
+    color: #FF0068;
     margin: 0 5px;
     line-height: 40px;
     font-weight: 600;
@@ -1272,13 +1272,13 @@ html, body {
 }
 
 .blue-login a {
-    background: #0f5ef7;
+    background: #FF0068;
     border-radius: 0 10px 10px 0;
     width: 155px;
 }
 
 .blue-login a:hover {
-    background: #417ef6;
+    background: #FF0068;
 }
 
 .blue-login {
@@ -1318,7 +1318,7 @@ html, body {
 }
 
 .login-form .form-group .form-control-label, .blue-label {
-    color: #0f5ef6;
+    color: #FF0068;
 }
 
 .form-group .form-control-label {
@@ -1328,8 +1328,8 @@ html, body {
 }
 
 .login-form .form-group input, .blue-input {
-    color: #0f5ef6;
-    border-color: #0f5ef6;
+    color: #FF0068;
+    border-color: #FF0068;
 }
 
 .form-group input {
@@ -1343,8 +1343,8 @@ html, body {
 }
 
 .form-group input:focus {
-    border-color: #0f5ef6;
-    color: #0f5ef6;
+    border-color: #FF0068;
+    color: #FF0068;
 }
 
 .remember-me-text {
@@ -1353,8 +1353,8 @@ html, body {
 }
 
 .custom-control-input:checked ~ .custom-control-label::before {
-    border-color: #0f5ef7;
-    background-color: #0f5ef7;
+    border-color: #FF0068;
+    background-color: #FF0068;
 }
 
 .login-form .custom-control-label::before {
@@ -1369,7 +1369,7 @@ html, body {
     font-size: 12px;
     color: #fff;
     font-family: 'Montserrat-SemiBold';
-    background: #0f5ef7;
+    background: #FF0068;
     margin-top: 20px;
     padding: 10px 30px;
     width: 100%;
@@ -1583,7 +1583,7 @@ html, body {
 .btn-submit {
     padding: 10px 23px;
     border-radius: 10px;
-    background: #0f5ef7;
+    background: #FF0068;
     color: #fff;
     line-height: 1.5 !important;
     transition: all 0.2s ease;
@@ -2309,7 +2309,7 @@ input:checked + .slider1:before {
     position: absolute;
     right: 0px;
     top: 0;
-    background: #0f5ef7;
+    background: #FF0068;
     padding: 8px 12px;
     border-radius: 10px;
     z-index: -99;
@@ -2909,7 +2909,7 @@ input[type="file"] {
     }
 
     .blue-login a {
-        background: #0f5ef7;
+        background: #FF0068;
         border-radius: 10px 10px 0 0;
     }
 
@@ -3393,7 +3393,7 @@ hr {
 .btn-custom{
     padding: 10px 23px;
     border-radius: 10px;
-    background: #00B8D9;
+    background: #FF0068;
     color: #fff;
     line-height: 1.5 !important;
     transition: all 0.2s ease;

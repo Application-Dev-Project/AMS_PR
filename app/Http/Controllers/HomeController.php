@@ -70,7 +70,7 @@ class HomeController extends Controller
                     $arr['start']           = $event['start_date'];
                     $arr['end']             = $event['end_date'];
                     $arr['backgroundColor'] = $event['color'];
-                    $arr['borderColor']     = "#fff";
+                    $arr['borderColor']     = "#FF0068";
                     $arr['textColor']       = "white";
 
                     $arrEvents[] = $arr;
@@ -98,7 +98,7 @@ class HomeController extends Controller
                     $arr['end']   = $event['end_date'];
 
                     $arr['backgroundColor'] = $event['color'];
-                    $arr['borderColor']     = "#fff";
+                    $arr['borderColor']     = "#FF0068";
                     $arr['textColor']       = "white";
                     $arr['url']             = route('event.edit', $event['id']);
 
