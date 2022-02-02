@@ -822,7 +822,7 @@ select:focus, input:focus {
 }
 
 .badge-blue {
-    background: #fc1d4fF;
+    background: #555;
     color: #fff;
 }
 
@@ -1393,7 +1393,7 @@ html, body {
 
 .copyright-text {
     font-size: 12px;
-    color: #a3afbb;
+    color: rgb(131, 131, 131);
     padding: 15px 0 10px 0;
 }
 

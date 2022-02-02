@@ -72,10 +72,6 @@ unset($__errorArgs, $__bag); ?>
                 </form>
             </div>
 
-            <h5 class="copyright-text">
-                <?php echo e((Utility::getValByName('footer_text')) ? Utility::getValByName('footer_text') :  __('Copyright HRMGo')); ?> <?php echo e(date('Y')); ?>
-
-            </h5>
             <div class="all-select">
                 <a href="#" class="monthly-btn">
                     <span class="monthly-text py-0"><?php echo e(__('Change Language')); ?></span>

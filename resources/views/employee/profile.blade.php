@@ -52,7 +52,7 @@
             <div class="col-lg-3 col-sm-6 col-md-6">
                 <div class="card profile-card">
                     <div class="avatar-parent-child">
-                        <img src="{{!empty($employee->user->avatar) ? asset(Storage::url('uploads/avatar')).'/'.$employee->user->avatar : asset(Storage::url('uploads/avatar')).'/avatar.png'}}" class="avatar rounded-circle avatar-xl">
+                    <img src="/assets/img/avatar.png" alt="avatar" class="avatar rounded-circle avatar-xl">
                     </div>
                     <h4 class="h4 mb-0 mt-2">{{ $employee->name }}</h4>
                     <div class="sal-right-card">

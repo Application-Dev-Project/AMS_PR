@@ -33,9 +33,7 @@
                     <a href="{{ route('login') }}" class="text-xs text-primary">{{__('Login')}}</a>
                 </form>
             </div>
-            <h5 class="copyright-text">
-                {{(Utility::getValByName('footer_text')) ? Utility::getValByName('footer_text') :  __('Copyright HRMGo') }} {{ date('Y') }}
-            </h5>
+           
 
             <div class="all-select">
                 <a href="#" class="monthly-btn">

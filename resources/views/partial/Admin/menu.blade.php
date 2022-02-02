@@ -7,7 +7,7 @@
 <div class="sidenav custom-sidenav" id="sidenav-main">
     <div class="sidenav-header d-flex align-items-center">
         <a class="navbar-brand" href="{{route('home')}}">
-            <img src="{{$logo.'/'.(isset($company_logo) && !empty($company_logo)?$company_logo:'logo.png')}}" class="navbar-brand-img">
+            <img src="\assets\img\ct.png" class="navbar-brand-img">
         </a>
         <div class="ml-auto">
             <div class="sidenav-toggler sidenav-toggler-dark d-md-none" data-action="sidenav-unpin" data-target="#sidenav-main">

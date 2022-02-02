@@ -45,9 +45,7 @@
                 {{Form::submit(__('Reset Password'),array('class'=>'btn-login','id'=>'resetBtn'))}}
                 {{Form::close()}}
             </div>
-            <h5 class="copyright-text">
-                {{(Utility::getValByName('footer_text')) ? Utility::getValByName('footer_text') :  __('Copyright HRMGo') }} {{ date('Y') }}
-            </h5>
+         
         </div>
     </div>
 @endsection

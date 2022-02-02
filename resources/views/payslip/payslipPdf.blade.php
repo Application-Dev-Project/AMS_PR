@@ -19,7 +19,7 @@
                             <div class="invoice-title">
                                 <h4>{{__('Payslip')}}</h4>
                                 <div class="invoice-number">
-                                    <img src="{{$logo.'/'.(isset($company_logo) && !empty($company_logo)?$company_logo:'logo.png')}}" width="170px;" alt="">
+                                    <img src="/assets/img/avatar.png"  width="170px;" alt="">
                                 </div>
                             </div>
                             <hr>

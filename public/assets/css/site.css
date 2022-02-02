@@ -2154,7 +2154,7 @@ textarea.form-control {
   margin-top: .1rem;
   font-size: 0.875rem;
   line-height: 1.7;
-  color: #FFF;
+  color: rgb(124, 124, 124);
   background-color: rgba(54, 179, 126, 0.9);
   border-radius: 0.25rem;
 }

@@ -100,7 +100,7 @@ $lang=\App\Models\Utility::getValByName('default_language');
                                 <h4 class="small-title">{{__('Logo')}}</h4>
                                 <div class="card setting-card setting-logo-box">
                                     <div class="logo-content">
-                                        <img src="{{$logo.'/logo.png'}}" class="big-logo" alt=""/>
+                                        <img src="/app/public/assets/img/logo1.png" class="big-logo" alt=""/>
                                     </div>
                                     <div class="choose-file mt-5">
                                         <label for="logo">

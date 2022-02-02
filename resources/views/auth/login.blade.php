@@ -9,7 +9,7 @@
     <div class="login-contain">
         <div class="login-inner-contain">
             <a class="navbar-brand" href="#">
-                <img src="{{$logo.'/logo.png'}}" class="navbar-brand-img auth-logo" alt="logo">
+                <img src="/assets/img/catfish.png" height="180" alt="logo">
             </a>
             <div class="login-form">
                 <div class="page-title"><h5>{{__('Login')}}</h5></div>
@@ -45,7 +45,7 @@
             </div>
 
             <h5 class="copyright-text">
-                {{(Utility::getValByName('footer_text')) ? Utility::getValByName('footer_text') :  __('Copyright HRMGo') }} {{ date('Y') }}
+                {{(Utility::getValByName('footer_text')) ? Utility::getValByName('footer_text') :  __('Copyright Test') }} {{ date('Y') }}
             </h5>
             <div class="all-select">
                 <a href="#" class="monthly-btn">

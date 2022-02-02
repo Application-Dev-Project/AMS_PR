@@ -72,7 +72,7 @@
                     <a class="nav-link pr-lg-0" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <div class="media media-pill align-items-center">
                             <span class="avatar rounded-circle">
-                                <img alt="Image placeholder" src="{{(!empty($users->avatar)? $profile.'/'.$users->avatar : $profile.'/avatar.png')}}">
+                                <img alt="Image placeholder" src="/assets/img/avatar.png">
                             </span>
                             <div class="ml-2 d-none d-lg-block">
                                 <span class="mb-0 text-sm  font-weight-bold">{{\Auth::user()->name}}</span>
